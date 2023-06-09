@@ -1,0 +1,23 @@
+{
+  "name": "pia-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thiagopiacentini/pia-ui.git",
+  "author": "Thiago Piacentini <thiagopiacentini83@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^13.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.2.5",
+    "@types/react": "18.2.9",
+    "typescript": "5.1.3"
+  }
+}
